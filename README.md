@@ -5,5 +5,5 @@
 <h1>🔧 Dependencias</h1>
 
 <ul>
-  <li></li>
+  <li>pyqrcode</li>
 </ul>
